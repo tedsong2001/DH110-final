@@ -31,14 +31,14 @@ For the wireframe, I included a menu bar at the top and new buttons ("I am an ac
 ![wireframe](wireframe.jpeg)
 
 ## Low-fidelity Prototype
-Below is the wireflow of the low-fidelity prototype. When the user tested out the previous wireframe, they noticed that the "Other" function is very ambiguous and would not serve much purpose for the user. Another point that they raised is that the white space in the CPA Exam Instructions page was a bit awkward and it would be better to directly present information on the page when the user first enters the site. So, this low-fidelity prototype aims to address the issues that the user brought up. Also, the original website sported a purple and grey look, which created a gloomy atmosphere when navigating the website. This new website takes advantage of bright blue and grey colors, which are also Nevada's state color, thus giving the website an identity. [Read more](https://github.com/tedsong2001/DH110-2021F/blob/main/Assignments/Assignment%206/Assignment6.md)
+Below is the wireflow of the low-fidelity prototype. When the user tested out the previous wireframe, they noticed that the "Other" function is very ambiguous and would not serve much purpose for the user. Another point that they raised is that the white space in the CPA Exam Instructions page was a bit awkward and it would be better to directly present information on the page when the user first enters the site. So, this low-fidelity prototype aims to address the issues that the user brought up. Also, the original website sported a purple and grey look, which created a gloomy atmosphere when navigating the website. This new website takes advantage of bright blue and grey colors, which are also Nevada's state colors, thus giving the website an identity. [Read more](https://github.com/tedsong2001/DH110-2021F/blob/main/Assignments/Assignment%206/Assignment6.md)
 
 ![wireflow](wireflow.png)
 
 ## High-fidelity Prototype
 Below is the link to the interactive prototype. In this prototype, I fixed the issues that the user raised when testing the low-fidelity prototype. I also worked on a log-in page, which is a feature that experienced users will be familiar with. [Read more](https://github.com/tedsong2001/DH110-2021F/blob/main/Assignments/Assignment%207/Assignment07.md)
 
-[Link to interactive prototype](https://www.figma.com/file/nt8GbxuQnvFVY3Mw0T5Me4/High-Fidelity-Prototype-(Copy)?node-id=0%3A1)
+[Link to interactive prototype](https://www.figma.com/proto/nt8GbxuQnvFVY3Mw0T5Me4/High-Fidelity-Prototype-(Copy)?node-id=133%3A181&starting-point-node-id=133%3A181)
 
 ## Conclusion
 Overall, I think I accomplished my initial goal of being able to improve a government website and make it more accessible for users, especially new ones to use. Because this was my first project focusing on user experience and design, there were moments when I was scared I didn't know what I was doing, and it even felt like I wasn't making much progress. But, now that I'm reflecting on the final product and looking back on where I started from, I realize that I accomplished a lot through the process. Also, this project was very fruitful in that I gained some experience on what user experience researchers and designers do.
