@@ -42,3 +42,7 @@ Below is the link to the interactive prototype. In this prototype, I fixed the i
 
 ## Conclusion
 Overall, I think I accomplished my initial goal of being able to improve a government website and make it more accessible for users, especially new ones to use. Because this was my first project focusing on user experience and design, there were moments when I was scared I didn't know what I was doing, and it even felt like I wasn't making much progress. But, now that I'm reflecting on the final product and looking back on where I started from, I realize that I accomplished a lot through the process. Also, this project was very fruitful in that I gained some experience on what user experience researchers and designers do.
+
+Still, this project came with a few roadbumps. I think that this project taught me that preparation for the research part of user experience and design is very important. For example, I wish that I spent more time generating better questions and tasks when the users were testing out a product. I also definitely could've conducted more user tests, so I could iterate my designs more often.
+
+Next time, I hope to work on a mobile app. I think that researching and designing for mobile apps would be quite a different experience from working with desktop websites.
