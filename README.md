@@ -21,12 +21,13 @@ I also conducted a usability testing. The user was instructed to perform three t
 For the user research, I decided to conduct an interview about finding the requirements that a person needs to fulfill to qualify for a job. In the interview, I found out that the user liked when there was thorough information because it gave them a clearer vision of what the job entails. However, the user didn't like it when sites didn't present such information in an organized manner, meaning that the design of how information is presented should be created in a way that does not require the user to put in a lot of effort to read. [Read more](https://github.com/tedsong2001/DH110-2021F/blob/main/Assignments/Assignment%203/Assignment3.md)
 
 ## UX Storytelling
-For UX storytelling, I created two personas to shift my perspective to the user's and emphathize with the user's desires, goals, and feelings. One of the personas was a middle-aged woman who is a long-time CPA, but her sight is declining. The other persona is a young college student who is interested in pursuing accounting but is not entirely sure of whether she wants to commit to accounting as a career. To add onto the personas, I also created journey maps for each of the personas.
+For UX storytelling, I created two personas to shift my perspective to the user's and emphathize with the user's desires, goals, and feelings. One of the personas was a middle-aged woman who is a long-time CPA, but her sight is declining. The other persona is a young college student who is interested in pursuing accounting but is not entirely sure of whether she wants to commit to accounting as a career. To add onto the personas, I also created journey maps for each of the personas. [Read more](https://github.com/tedsong2001/DH110-2021F/blob/main/Assignments/Assignment%204/Assignment4.md)
 
 ![persona1](persona1.png)
 ![persona2](persona2.png)
 
-## Wireframe and graphic design element variation [assignment06 + part of 07]
+## Wireframe and Graphic Design Element Variation
+
 
 ## Low-fidelity prototype (wireflow, assignment06)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
