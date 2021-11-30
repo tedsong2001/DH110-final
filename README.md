@@ -23,19 +23,8 @@ For the user research, I decided to conduct an interview about finding the requi
 ## UX Storytelling
 For UX storytelling, I created two personas to shift my perspective to the user's and emphathize with the user's desires, goals, and feelings. One of the personas was a middle-aged woman who is a long-time CPA, but her sight is declining. The other persona is a young college student who is interested in pursuing accounting but is not entirely sure of whether she wants to commit to accounting as a career. To add onto the personas, I also created journey maps for each of the personas.
 
-<table>
-  <tr>
-    <td> <img src="https://github.com/tedsong2001/DH110-final/blob/main/persona1.png" height="300px"> </td>
-    <td> <img src="https://github.com/tedsong2001/DH110-final/blob/main/persona2.png" height="300px"> </td>
-  </tr>
- </table>
- 
- <table>
-  <tr>
-    <td> <img src="https://github.com/tedsong2001/DH110-final/blob/main/map1.png" height="300px"> </td>
-    <td> <img src="https://github.com/tedsong2001/DH110-final/blob/main/map2.png" height="300px"> </td>
-  </tr>
- </table>
+![persona1](persona1.png)
+![persona2](persona2.png)
 
 ## Wireframe and graphic design element variation [assignment06 + part of 07]
 
