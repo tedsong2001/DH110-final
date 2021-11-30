@@ -27,14 +27,16 @@ For UX storytelling, I created two personas to shift my perspective to the user'
 ![persona2](persona2.png)
 
 ## Wireframe and Graphic Design Element Variation
-For the wireframe, I included a menu bar at the top and new buttons ("I am an accountant" and "I am interested in accounting"). Bigger font sizes were also used to enhance readability. Additionally, a different layout was used (see CPA Exam Instructions site) so that the information that the user wants to see is provided.  
+For the wireframe, I included a menu bar at the top and new buttons ("I am an accountant" and "I am interested in accounting" and "Other). Bigger font sizes were also used to enhance readability. Additionally, a different layout was used (see CPA Exam Instructions site) so that the information that the user wants to see is provided. [Read more](https://github.com/tedsong2001/DH110-2021F/blob/main/Assignments/Assignment%205/Assignment5.md)
 ![wireframe](wireframe.jpeg)
 
 ## Low-fidelity prototype (wireflow, assignment06)
-Summary and link to the sketches (may contains the multiple versions and evaluation history)
+Below is the wireflow of the low-fidelity prototype. When the user tested out the previous wireframe, they noticed that the "Other" function is very ambiguous and would not serve much purpose for the user. Another point that they raised is that the white space in the CPA Exam Instructions page was a bit awkward and it would be better to directly present information on the page when the user first enters the site. So, this low-fidelity prototype aims to address the issues that the user brought up. Also, the original website sported a purple and grey look, which created a gloomy atmosphere when navigating the website. This new website takes advantage of bright blue and grey colors, which are also Nevada's state color, thus giving the website an identity. [Read more](https://github.com/tedsong2001/DH110-2021F/blob/main/Assignments/Assignment%206/Assignment6.md)
+
+![wireflow](wireflow.png)
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
-Summary statement and link to or an embedded prototype
+Below is the interactive pro
 
 ## Pitch video 
 
