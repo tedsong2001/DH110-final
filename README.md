@@ -25,19 +25,15 @@ For UX storytelling, I created two personas to shift my perspective to the user'
 
 <table>
   <tr>
-    <td> <img src="https://github.com/tedsong2001/DH110-final/blob/main/persona1.png"
-              height="300px"> </td>
-    <td> <img src="https://github.com/tedsong2001/DH110-final/blob/main/persona2.png"
-              height="300px"> </td>
+    <td> <img src="https://github.com/tedsong2001/DH110-final/blob/main/persona1.png" height="300px"> </td>
+    <td> <img src="https://github.com/tedsong2001/DH110-final/blob/main/persona2.png" height="300px"> </td>
   </tr>
  </table>
  
  <table>
   <tr>
-    <td> <img src="https://github.com/tedsong2001/DH110-final/blob/main/map1.png"
-              height="300px"> </td>
-    <td> <img src="https://github.com/tedsong2001/DH110-final/blob/main/map2.png"
-              height="300px"> </td>
+    <td> <img src="https://github.com/tedsong2001/DH110-final/blob/main/map1.png" height="300px"> </td>
+    <td> <img src="https://github.com/tedsong2001/DH110-final/blob/main/map2.png" height="300px"> </td>
   </tr>
  </table>
 
