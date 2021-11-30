@@ -18,10 +18,11 @@ I conducted heuristic evaluations of two Nevada government websites. One of the 
 I also conducted a usability testing. The user was instructed to perform three tasks: filing a complaint on the website, renewing a CPA license, and finding the requirements to becoming a CPA. Overall, the user displayed confusion when navigating the website. At the end of the usability testing, the user described the website as boring, busy, and overwhelming. Some criticisms of the website were that it was unnecessarily complex, difficult to learn for new users, and cumbersome to use. However, some interesting positive points that the user raised was the website was overall simple and consistent. [Read more](https://github.com/tedsong2001/DH110-2021F/blob/main/Assignments/Assignment%202/Assignment2.md)
 
 ## User Research
-For the user research, I decided to conduct an interview 
+For the user research, I decided to conduct an interview about finding the requirements that a person needs to fulfill to qualify for a job. In the interview, I found out that the user liked when there was thorough information because it gave them a clearer vision of what the job entails. However, the user didn't like it when sites didn't present such information in an organized manner, meaning that the design of how information is presented should be created in a way that does not require the user to put in a lot of effort to read. [Read more](https://github.com/tedsong2001/DH110-2021F/blob/main/Assignments/Assignment%203/Assignment3.md)
 
-## UX storytelling [persona+scenario, assignment05]
-Summary and link to your assignment folder
+## UX Storytelling
+For UX storytelling, I created two personas to shift my perspective to the user's and emphathize with the user's desires, goals, and feelings. One of the personas was a middle-aged woman who is a long-time CPA, but her sight is declining. The other persona is a young college student who is interested in pursuing accounting but is not entirely sure of whether she wants to commit to accounting as a career. To add onto the personas, I also created journey maps for each of the personas.
+
 
 ## Wireframe and graphic design element variation [assignment06 + part of 07]
 
