@@ -1,4 +1,4 @@
-# A Redesign of Nevada State Board of Accountancy of Website
+# A Redesign of the Nevada State Board of Accountancy Website
 ### by Ted Song
 
 ## Introduction
@@ -27,7 +27,8 @@ For UX storytelling, I created two personas to shift my perspective to the user'
 ![persona2](persona2.png)
 
 ## Wireframe and Graphic Design Element Variation
-
+For the wireframe, I included a menu bar at the top and new buttons ("I am an accountant" and "I am interested in accounting"). Bigger font sizes were also used to enhance readability. Additionally, a different layout was used (see CPA Exam Instructions site) so that the information that the user wants to see is provided.  
+![wireframe](wireframe.jpeg)
 
 ## Low-fidelity prototype (wireflow, assignment06)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
